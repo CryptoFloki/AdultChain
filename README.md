@@ -9,7 +9,6 @@ bash adultchain_install.sh
 ```
 ```
 systemctl stop AdultChain
-
 nano /root/.adultchain/adultchain.conf
 ```
 * Copy paste theese to sync your VPS.(If any nodes already, delete them and replace with thesse): 
