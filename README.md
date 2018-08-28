@@ -13,7 +13,7 @@ systemctl stop AdultChain
 
 nano /root/.adultchain/adultchain.conf
 ```
-* Copy paste these to sync your VPS.(If any nodes already, delete them and replace with thesse): 
+* Copy paste theese to sync your VPS.(If any nodes already, delete them and replace with thesse): 
 ```
 addnode=80.240.19.104:6969
 addnode=104.238.188.180:6969
