@@ -24,7 +24,7 @@ addnode=149.28.51.169:6969
 ```
 * SAVE CTRL+X then ENTER
 ```
-adultchaind -reindex"
+adultchaind -reindex
 ```
 * It will then appear to freeze. Close it and open it again.
 * Check blocks is synching with
