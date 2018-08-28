@@ -89,7 +89,8 @@ systemctl is-enabled AdultChain #To check if AdultChain service is enabled on bo
 
 ## Donations
 
-Any donation is highly appreciated
+Any donation is highly appreciated.
+
 Zoldur:
 
 **XXX**: F1ieS1U6UeihUfFpNjHL8VJnHPzwoj  
