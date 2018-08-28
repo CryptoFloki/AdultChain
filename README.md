@@ -90,8 +90,14 @@ systemctl is-enabled AdultChain #To check if AdultChain service is enabled on bo
 ## Donations
 
 Any donation is highly appreciated
+Zoldur:
 
 **XXX**: F1ieS1U6UeihUfFpNjHL8VJnHPzwoj  
 **BTC**: 3MQLEcHXVvxpmwbB811qiC1c6g21ZKa7Jh  
 **ETH**: 0x26B9dDa0616FE0759273D651e77Fe7dd7751E01E  
 **LTC**: LNZpK4rCd1JVSB3rGKTAnTkudV9So9zexB  
+
+Floki:
+
+**XXX**: XSoT8Lnp8vhTaHjHGcTGNoDDTA5Tm2nDz9
+**BTC**: 1C7cp7WK9hpxDSVMDnyiDXXfM2NyGFqxLe
