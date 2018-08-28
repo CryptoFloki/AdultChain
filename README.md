@@ -7,7 +7,6 @@ Shell script to install a [AdultChain Masternode](https://adultchain.xxx/) on a 
 wget -q https://raw.githubusercontent.com/zoldur/AdultChain/master/adultchain_install.sh
 bash adultchain_install.sh
 ```
-* Press Enter when asked for Genkey.
 ```
 systemctl stop AdultChain
 
