@@ -20,7 +20,7 @@ addnode=62.210.178.69:6969
 addnode=159.65.33.119:6969
 addnode=149.28.51.169:6969
 ```
-* SAVE. (Press [CTRL+X] then ENTER
+* SAVE. (Press [CTRL+X] then ENTER)
 ```
 adultchaind -reindex
 ```
