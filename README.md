@@ -1,5 +1,5 @@
 # AdultChain 
-Shell script to install a [AdultChain Masternode](https://adultchain.xxx/) on a Linux server running Ubuntu 16.04. This is a light modification of Zoldur's original guide with a few additional steps but using the original install script. Use it on your own risk.
+Shell script to install a [AdultChain Masternode](https://adultchain.xxx/) on a Linux server running Ubuntu 16.04. This is a light modification of Zoldur's original guide with a few additional steps but using his original install script. Use it on your own risk.
 ***
 
 ## VPS installation
