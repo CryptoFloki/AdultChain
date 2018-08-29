@@ -32,7 +32,6 @@ adultchain-cli getinfo
 * When blocks matches your wallet use this command until requests have 999 near the buttom.
 ```
 adultchain-cli mnsync status
-
 ```
 ***
 
